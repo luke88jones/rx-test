@@ -1,0 +1,10 @@
+.wrapper {
+    background-image: url("../assets/bodyMap.gif");
+    background-color: #cdcdcd;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    height: 515px;
+    width: 580px;
+    border: 1px solid black;
+}
